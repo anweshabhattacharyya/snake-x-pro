@@ -4,7 +4,7 @@ A high-octane, Cyber-Neon arcade experience built with Python and Pygame.
 <p align="center">
   <img src="gameplay.gif" width="700" alt="Snake X Gameplay">
 </p>
-![Snake X Gameplay](gameplay.gif)
+
 
 ## ✨ Features
 

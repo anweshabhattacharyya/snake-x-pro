@@ -2,7 +2,9 @@
 
 A high-octane, Cyber-Neon arcade experience built with Python and Pygame.
 
-![Gameplay Demo](gameplay.gif)
+![Snake X Gameplay](gameplay.gif)
+
+### A retro-futuristic arcade experience.![Gameplay Demo](gameplay.gif)
 
 ## ✨ Features
 
